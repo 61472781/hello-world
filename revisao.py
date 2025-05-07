@@ -25,3 +25,15 @@ if a > b:
 else
         print('A é MENOR  que B')
     
+#exemplo de soma
+soma = (1+1)
+print(soma)
+
+#exemplo de sobtraçaõ
+subtracao = (10-5)
+print(subtracao)
+
+#exemplo de multiplicação
+multiplicacao = (2*4)
+# print('A multiplicação de 2 * 4 é:',multiplicacao
+
